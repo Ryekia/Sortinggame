@@ -1,6 +1,8 @@
 # Sortinggame
-Just a small sorting game. 
+Just a small money-sorting game built in Flutter.
 
-I made this game using Gemini for the base with some editing done by me.
+I used Gemini as a coding partner to generate and refine most of the code, then focused on debugging, logic, and polish myself.
 
-I was forced to stop because gemini couldn't take any more characters.
+The project was also a way for me to explore how to collaborate with an LLM on a non-trivial codebase.
+
+I worked within the character limits of the free tier of Gemini, which shaped how I structured and iterated on the project.
